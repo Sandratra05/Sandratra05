@@ -1,30 +1,16 @@
-# 👋 Hi there, I'm Sandratra | Salut à tous, moi c’est Sandratra 
+# 👋 Hi there, I'm Sandratra
 
 ---
-
-🎓 **Étudiant en 3ème année à IT University - Madagascar**  
-💻 **Spécialisé dans le domaine de l’informatique (IT)**  
-🚀 Passionné par le **développement logiciel, les technologies modernes** et l’apprentissage continu.  
-
----
-
-## 🧠 About Me | À propos de moi  
 
 > 💬 “Learn, build, improve, repeat.”  
-
-🇫🇷  
-Je suis un étudiant passionné par les nouvelles technologies et le développement.  
-J’aime comprendre le **fonctionnement interne des systèmes**, concevoir des solutions efficaces et partager mes connaissances.  
-Mon objectif : **devenir un ingénieur logiciel polyvalent** capable de créer des applications fiables et performantes.  
-
-🇬🇧  
+  
 I’m a third-year IT student from **IT University Madagascar**, deeply interested in software development and tech innovation.  
 I love learning how systems work, building creative solutions, and growing every day through hands-on projects.  
 My goal: **become a versatile software engineer** who crafts efficient and impactful applications.  
 
 ---
 
-## ⚙️ Languages & Frameworks | Langages & Frameworks  
+## ⚙️ Languages & Frameworks  
 
 ### 💡 Languages
 <p align="left">
@@ -38,14 +24,14 @@ My goal: **become a versatile software engineer** who crafts efficient and impac
 
 ---
 
-## 🛠️ Tools & Environment | Outils & Environnement  
+## 🛠️ Tools & Environment  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,linux,figma,vscode,idea" alt="tools" />
 </p>
 
 ---
 
-## 📊 GitHub Stats | Statistiques GitHub  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sandratra05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
@@ -61,7 +47,7 @@ My goal: **become a versatile software engineer** who crafts efficient and impac
 
 ---
 
-## 🗺️ GitHub Contributions Map | Carte de contributions  
+## 🗺️ GitHub Contributions Map
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandratra05&theme=tokyonight" alt="GitHub contribution map" />
@@ -69,7 +55,7 @@ My goal: **become a versatile software engineer** who crafts efficient and impac
 
 ---
 
-## 🎯 Current Goals | Objectifs Actuels  
+## 🎯 Current Goals
 
 🇫🇷  
 - Approfondir mes compétences en **Spring Boot** et **Node.js**  
@@ -81,7 +67,7 @@ My goal: **become a versatile software engineer** who crafts efficient and impac
 
 ---
 
-## 🌐 Let's Connect | Restons en contact  
+## 🌐 Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/sandratra-raben/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a href="mailto:sandratrahasinarivelo5@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="email" /></a>
