@@ -52,15 +52,15 @@ My goal: **become a versatile software engineer** who crafts efficient and impac
 ## 📊 GitHub Stats | Statistiques GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandratra&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandratra05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandratra&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandratra05&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandratra&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandratra05&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
@@ -68,7 +68,7 @@ My goal: **become a versatile software engineer** who crafts efficient and impac
 ## 🗺️ GitHub Contributions Map | Carte de contributions  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandratra&theme=tokyonight" alt="GitHub contribution map" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandratra05&theme=tokyonight" alt="GitHub contribution map" />
 </p>
 
 ---
