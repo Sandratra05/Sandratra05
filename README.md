@@ -73,12 +73,10 @@ My goal: **become a versatile software engineer** who crafts efficient and impac
 
 🇫🇷  
 - Approfondir mes compétences en **Spring Boot** et **Node.js**  
-- Développer des **projets open-source** utiles à la communauté  
 - Créer un **portfolio professionnel** pour présenter mes travaux  
 
 🇬🇧  
 - Master **Spring Boot** and **Node.js** development  
-- Build **open-source projects** that help others  
 - Design a **professional portfolio** to showcase my work  
 
 ---
