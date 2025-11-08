@@ -1,9 +1,5 @@
 # 👋 Hi there, I'm Sandratra | Salut à tous, moi c’est Sandratra 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=2AF7F7&center=true&vCenter=true&lines=Software developer; Web developer;" alt="Typing SVG">
-</h1>
-
 ---
 
 🎓 **Étudiant en 3ème année à IT University - Madagascar**  
