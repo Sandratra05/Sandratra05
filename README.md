@@ -57,7 +57,7 @@ My goal: **become a versatile software engineer** who crafts efficient and impac
 
 ## 🎯 Current Goals
 
-- Master **Spring Boot** and **Vue.JS** development  
+- Master **Spring Boot**, **Vue.JS** and **Mobile** development  
 - Design a **professional portfolio** to showcase my work  
 
 ---
