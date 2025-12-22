@@ -19,7 +19,7 @@ My goal: **become a versatile software engineer** who crafts efficient and impac
 
 ### 🧩 Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,vue,laravel,ionic" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,vue,laravel" alt="frameworks" />
 </p>
 
 ---
