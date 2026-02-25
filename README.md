@@ -14,7 +14,7 @@ My goal: **become a versatile software engineer** who crafts efficient and impac
 
 ### 💡 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,php,html,css" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=java,js,php,html,css" alt="languages" />
 </p>
 
 ### 🧩 Frameworks
