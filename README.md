@@ -26,7 +26,7 @@ My goal: **become a versatile software engineer** who crafts efficient and impac
 
 ## 🛠️ Tools & Environment  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,figma,photoshop" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,figma,photoshop,windows" alt="tools" />
 </p>
 
 ---
